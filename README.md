@@ -28,5 +28,6 @@ First exposure to PostgreSQL
 
 Ran with
 
+    > venv\Scripts\activate
     > $env:FLASK_ENV = "development"
     > flask run
