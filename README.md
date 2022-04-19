@@ -21,10 +21,12 @@ Ran with
 
     py script.py
 
-## Database Start
+## Webpage Basic
 
 Code to test writing and reading some information from an SQL database.  
+First exposure to PostgreSQL
 
 Ran with
 
-    py script.py
+    > $env:FLASK_ENV = "development"
+    > flask run
