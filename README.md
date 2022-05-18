@@ -23,11 +23,27 @@ Ran with
 
 ## Webpage Basic
 
-Code to test writing and reading some information from an SQL database.  
-First exposure to PostgreSQL
+Code to test flask set-up and use.
 
 Ran with
 
     > venv\Scripts\activate
     > $env:FLASK_ENV = "development"
     > flask run
+
+## Djando React
+
+Code to try using django to see the different between this and flask.
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
+
+Back ran with
+
+    > pipenv shell
+    > cd backend
+    > python manage.py runserver
+
+Front ran with
+
+    > cd frontend
+    > npm start
