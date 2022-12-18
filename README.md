@@ -1,4 +1,4 @@
-# PythonProjects
+# PythonForWeb
 This is a little repository for me to share my Python learning experience.
 This included some basic syntactic practice leading up to my Research Experience at North Carolina, wherein I got much more proficient applicable experience.
 Below is what each path does and the command needed to execute:
