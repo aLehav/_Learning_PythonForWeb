@@ -1,10 +1,11 @@
 # PythonProjects
-This is a little repository for me to share my Python learning experience
+This is a little repository for me to share my Python learning experience.
+This included some basic syntactic practice leading up to my Research Experience at North Carolina, wherein I got much more proficient applicable experience.
 Below is what each path does and the command needed to execute:
 
 ## Hello World
 
-Project to simply make sure I have the installed python files, prints hellow world.
+Project to simply make sure I have the installed python files, prints hello world.
 
 Ran with
 
@@ -31,7 +32,7 @@ Ran with
     > $env:FLASK_ENV = "development"
     > flask run
 
-## Djando React
+## Django React
 
 Code to try using django to see the different between this and flask.
 https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
